@@ -1,0 +1,82 @@
+[
+    {
+        "value": 1,
+        "className": "number-btn"
+    },
+    {
+        "value": 2,
+        "className": "number-btn"
+    },
+    {
+        "value": 3,
+        "className": "number-btn"
+    },
+    {
+        "value": "+",
+        "className": "operator-btn"
+    },
+    {
+        "value": 4,
+        "className": "number-btn"
+    },
+    {
+        "value": 5,
+        "className": "number-btn"
+    },
+    {
+        "value": 6,
+        "className": "number-btn"
+    },
+    {
+        "value": "-",
+        "className": "operator-btn"
+    },
+    {
+        "value": 7,
+        "className": "number-btn"
+    },
+    {
+        "value": 8,
+        "className": "number-btn"
+    },
+    {
+        "value": 9,
+        "className": "number-btn"
+    },
+    {
+        "value": "x",
+        "className": "operator-btn"
+    },
+    {
+        "value": 0,
+        "className": "number-btn"
+    },
+    {
+        "value": ".",
+        "className": "number-btn"
+    },
+    {
+        "value": "=",
+        "className": "equal-btn"
+    },
+    {
+        "value": "÷",
+        "className": "operator-btn"
+    },
+    {
+        "value": "(",
+        "className": "operator-btn"
+    },
+    {
+        "value": ")",
+        "className": "operator-btn"
+    },
+    {
+        "value": "Clear",
+        "className": "clear-btn"
+    },
+    {
+        "value": "Backspace",
+        "className": "clear-btn"
+    }
+]

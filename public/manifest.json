@@ -1,0 +1,15 @@
+{
+  "short_name": "Calculator App",
+  "name": "Super Basic Calculator",
+  "icons": [
+    {
+      "src": "appicon.ico",
+      "sizes": "128x128 96x96 72x72 64x64 48x48 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
