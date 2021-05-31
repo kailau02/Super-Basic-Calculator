@@ -41,7 +41,7 @@ class App extends Component{
             this.shouldErrorShow(true);
             return;
         }
-        this.setState({answers: this.state.answers.concat(`${this.state.equationText} = ${result}`)});
+        this.setState({answers: [`${this.state.equationText} = ${result}`].concat(this.state.answers)});
         this.setState({equationText: result});
         this.shouldErrorShow(false);
     }

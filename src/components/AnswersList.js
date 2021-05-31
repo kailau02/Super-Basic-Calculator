@@ -1,7 +1,7 @@
 import React from 'react';
 
 function AnswersList({answers}){
-    const listItems = answers.reverse().map((val, i) => {
+    const listItems = answers.map((val, i) => {
         return <li key={i} style={{listStyle:"circle"}}>{val}</li>
     })
     return(
